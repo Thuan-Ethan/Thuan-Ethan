@@ -22,3 +22,4 @@ I'm a **Computer Science student** passionate about **Game Development**.
 
 - GitHub: [@Thuan-Ethan](https://github.com/Thuan-Ethan)
 - Gmail: trieuminhthuan2005@gmail.com
+- Facebook: [@Trieu Minh Thuan-ThuanTrieu](https://www.facebook.com/profile.php?id=61586615880930)
