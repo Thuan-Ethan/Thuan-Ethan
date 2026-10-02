@@ -15,9 +15,10 @@ I'm a **Computer Science student** passionate about **Game Development**.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
 ## 🚀 Projects
-
-<!-- Projects will be added here -->
-
+### Project 1: Delivery Car
+- **Describe:** Delivery Car is a 2D delivery game. Players drive a vehicle to pick up packages and deliver them to customers.
+- **Tech:** Unity, C#
 ## 📫 Contact
 
 - GitHub: [@Thuan-Ethan](https://github.com/Thuan-Ethan)
+- Gmail: [@Trieu Minh Thuan - Thuan Trieu](trieuminhthuan2005@gmail.com)
