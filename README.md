@@ -18,7 +18,9 @@ I'm a **Computer Science student** passionate about **Game Development**.
 ### Project 1: Delivery Car
 - **Describe:** Delivery Car is a 2D delivery game. Players drive a vehicle to pick up packages and deliver them to customers.
 - **Tech:** Unity, C#
-  <img width="816" height="460" alt="Game_UI" src="https://github.com/user-attachments/assets/db4d0a98-6858-498a-bc8a-5e1e21d45cd3" />
+
+<img width="582" height="421" alt="Screenshot 2026-10-02 150629" src="https://github.com/user-attachments/assets/ecb17f07-a881-4f31-941a-3a6e9ec4de68" />
+
 
 ## 📫 Contact me
 
