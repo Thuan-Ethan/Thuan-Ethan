@@ -18,7 +18,7 @@ I'm a **Computer Science student** passionate about **Game Development**.
 ### Project 1: Delivery Car
 - **Describe:** Delivery Car is a 2D delivery game. Players drive a vehicle to pick up packages and deliver them to customers.
 - **Tech:** Unity, C#
-## 📫 Contact
+## 📫 Contact me
 
 - GitHub: [@Thuan-Ethan](https://github.com/Thuan-Ethan)
-- Gmail: [@Trieu Minh Thuan - Thuan Trieu](trieuminhthuan2005@gmail.com)
+- Gmail: trieuminhthuan2005@gmail.com
