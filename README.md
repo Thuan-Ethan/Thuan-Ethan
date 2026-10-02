@@ -1,5 +1,4 @@
 # Hi everyone, I'm Thuan (Ethan) 👋
-<img width="500" height="307" alt="Screenshot 2026-10-02 153617" src="https://github.com/user-attachments/assets/e2e05b1d-0b3a-4fb7-afef-b78f5ffd00eb" />
 
 I'm a **Computer Science student** passionate about **Game Development**.
 
