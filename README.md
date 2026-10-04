@@ -24,16 +24,6 @@ I'm a **Computer Science student** passionate about **Game Development**.
 
 ## 💻 IDE
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?logo=visualstudio&logoColor=white)
-
-## 🚀 Projects
-### Project 1: Delivery Car (learn in Udemy)
-- **Describe:** Delivery Car is a 2D delivery game. Players drive a vehicle to pick up packages and deliver them to customers.
-- **Tech:** Unity, C#
-
-- **Functions:**
-  - Move: use WASD
-  - Pick up the package & Delivery to the customer
-  - Pick up a Boost item to increase speed
  
 ## 📫 Contact me
 
